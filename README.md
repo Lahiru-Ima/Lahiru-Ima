@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Lahiru</h1>
 <h3 align="center">A passionate full stack developer from Sri Lanka</h3>
-<p align="left"><img src="https://www.aagnia.com/wp-content/uploads/2021/12/39998-web-development.gif"/></p>
+<p align="center"><img src="https://www.aagnia.com/wp-content/uploads/2021/12/39998-web-development.gif"/></p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lahiru-ima&label=Profile%20views&color=0e75b6&style=flat" alt="lahiru-ima" /> </p>
 
@@ -23,3 +23,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lahiru-ima&show_icons=true&locale=en" alt="lahiru-ima" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lahiru-ima&" alt="lahiru-ima" /></p>
+
