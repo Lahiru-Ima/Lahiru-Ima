@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Lahiru</h1>
 <h3 align="center">A passionate full stack developer from Sri Lanka</h3>
-<p align="center"><img src="https://www.aagnia.com/wp-content/uploads/2021/12/39998-web-development.gif" width="400" height="400"/></p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lahiru-ima&label=Profile%20views&color=0e75b6&style=flat" alt="lahiru-ima" /> </p>
 
