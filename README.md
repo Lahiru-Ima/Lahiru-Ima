@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Lahiru</h1>
-<h3 align="center">A passionate full stack developer from Sri Lanka</h3>
+<h3 align="center">A passionate mobile developer from Sri Lanka</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lahiru-ima&label=Profile%20views&color=0e75b6&style=flat" alt="lahiru-ima" /> </p>
 
-- 🌱 I’m currently learning **Flutter,FastAPI,Java Script,Machine learning**
+- 🌱 I’m currently learning **Flutter,FastAPI,Node JS,Java Script,Machine learning**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Lahiru-Ima](https://github.com/Lahiru-Ima)
 
