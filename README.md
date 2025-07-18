@@ -20,7 +20,7 @@ const lahiru = {
   location: "Sri Lanka 🇱🇰",
   specialization: ["Flutter", "Cross-platform Development", "Mobile UI/UX"],
   currentFocus: "Building scalable mobile applications",
-  learning: ["Advanced Flutter", "FastAPI", "Node.js", "Machine Learning"],
+  learning: ["React Native", "Swift", "Node.js", "Machine Learning"],
   hobbies: ["Open Source", "Tech Blogging", "UI/UX Design"]
 };
 ```
@@ -108,7 +108,7 @@ const lahiru = {
 
 <div align="center">
   <a href="https://github.com/Lahiru-Ima">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=lahiru-ima&repo=your-mobile-app-repo&theme=tokyonight&hide_border=true" alt="Featured Project" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=lahiru-ima&repo=donate-me-app-repo&theme=tokyonight&hide_border=true" alt="Featured Project" />
   </a>
 </div>
 
