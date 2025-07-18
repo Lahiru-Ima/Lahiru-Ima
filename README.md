@@ -108,7 +108,7 @@ const lahiru = {
 
 <div align="center">
   <a href="https://github.com/Lahiru-Ima">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=lahiru-ima&repo=donate-me-app-repo&theme=tokyonight&hide_border=true" alt="Featured Project" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=lahiru-ima&repo=donate-me-app&theme=tokyonight&hide_border=true" alt="Featured Project" />
   </a>
 </div>
 
